@@ -11,6 +11,11 @@
  - Place: Tehran, Tehran, Iran
  - Bio: Front-end developer
  - GitHub: [omidnikrah](https://github.com/omidnikrah)
+ 
+ #### Name: [Murrium Zaheer](https://github.com/Murrium123)
+ - Place: Fredericton, New Brunswick, Canada
+ - Bio: GIS Technician
+ - GitHub: [Murrium Zaheer](https://github.com/Murrium123)
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
   - Place: Indore, India
